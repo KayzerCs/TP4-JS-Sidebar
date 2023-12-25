@@ -51,7 +51,7 @@ p {
 }
 
 .cross .bar:nth-child(1) {
-  transform: rotate(-40deg) translate(-15px, 5px);
+  transform: rotate(-40deg) translate(-15px, 10px);
 }
 
 .cross .bar:nth-child(2) {
@@ -59,7 +59,7 @@ p {
 }
 
 .cross .bar:nth-child(3) {
-  transform: rotate(40deg) translate(-15px, -6px);
+  transform: rotate(40deg) translate(-13px, -9px);
 }
 
 .toggle-btn span {
